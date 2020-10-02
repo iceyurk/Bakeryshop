@@ -1,3 +1,3 @@
 # Bakeryshop
  
-Link:https://iceyurk.github.io/Bakeryshop/
+Link : https://iceyurk.github.io/Bakeryshop/
